@@ -219,8 +219,8 @@ h2 {
 
 .otherWorks {
   background-image: url(../images/bg-2.png);
-  background-position: top center;
-  background-size: cover;
+  background-position: bottom center;
+  background-size: contain;
   background-repeat: no-repeat;
   padding-bottom: 104px;
 }
