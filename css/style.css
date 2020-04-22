@@ -76,7 +76,7 @@ p.lh-m {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
   font-style: italic;
   font-size: 5rem;
   font-weight: 900;
@@ -138,10 +138,6 @@ h2 {
   background-repeat: no-repeat;
 }
 
-.mainvision .inner {
-  width: 308px;
-}
-
 .mainvision .inner ul {
   width: 288px;
   display: flex;
@@ -149,8 +145,8 @@ h2 {
 }
 
 .mainvision .inner .career {
-  width: 293px;
   margin: 0 13px 4rem;
+  text-align: left;
 }
 
 .profile .inner {

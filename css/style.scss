@@ -33,7 +33,7 @@ p {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-style: italic;
     font-size: 5rem;
     font-weight: 900;
@@ -95,7 +95,7 @@ h2 {
     background-repeat: no-repeat;
 
     .inner {
-        width: 308px;
+        
 
         ul {
             width: 288px;
@@ -104,8 +104,9 @@ h2 {
         }
 
         .career {
-            width: 293px;
+       
             margin: 0 13px 4rem;
+            text-align: left;
 
         }
     }
@@ -199,7 +200,8 @@ h2 {
             margin-bottom: 17px;
         }
 
-        p {font-size: 20px;
+        p {
+            font-size: 20px;
             margin-bottom: 41px
         }
 
